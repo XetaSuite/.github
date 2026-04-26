@@ -27,39 +27,6 @@ Whether you operate across multiple locations or need granular control over day-
 
 ---
 
-## Modules
-
-### 🏢 Sites
-Manage all physical locations your organization operates in. Each site can be further divided into zones, giving you a clear and structured view of your entire portfolio.
-
-### 📍 Zones
-Subdivide sites into functional areas — floors, rooms, warehouses, production areas — and associate equipment or stock directly with each zone.
-
-### 🔧 Materials & Equipment
-Maintain a detailed catalog of all physical assets. Track specifications, assignment history, maintenance schedules, and current status for every piece of equipment.
-
-### 📦 Stock & Inventory
-Control your inventory with precision. Manage stock entries, exits, transfers between zones or sites, minimum thresholds, and replenishment workflows.
-
-### 🛠️ Interventions
-Centralize all operational actions in one place:
-- **Maintenance** — Schedule and record preventive and corrective maintenance tasks.
-- **Cleaning** — Plan and track cleaning operations across zones.
-- **Incidents** — Report, assign, and resolve incidents with a full resolution history.
-
----
-
-## Multi-Tenant Architecture
-
-XetaSuite is built with multi-tenancy at its core. Each tenant operates in a fully isolated environment with:
-
-- Dedicated data partitioning
-- Independent user and role management
-- Customizable configuration per tenant
-- Centralized administration for platform operators
-
----
-
 ## Contributing
 
 Contributions are welcome! Please read the contributing guidelines in the relevant repository before opening a pull request. All contributions should follow the project's coding standards and include appropriate tests.
