@@ -1,10 +1,9 @@
-# XetaSuite ERP
+<p align="center">
+  <img src="https://raw.githubusercontent.com/XetaIO/XetaSuite-Core/main/.github/logos/logo-dark.svg#gh-dark-mode-only" alt="XetaSuite Logo" height="180"/>
+  <img src="https://raw.githubusercontent.com/XetaIO/XetaSuite-Core/main/.github/logos/logo.svg#gh-light-mode-only" alt="XetaSuite Logo" height="180"/>
+</p>
 
-<div align="center">
-
-**A multi-tenant Enterprise Resource Planning solution for comprehensive facility, equipment, and inventory management.**
-
-</div>
+[XetaSuite](https://xetasuite.com/) is a **multi-tenant ERP** (Enterprise Resource Planning) [open-source](https://github.com/XetaIO/XetaSuite-Core) designed for comprehensive facility, equipment, and inventory management. This professional solution enables businesses to efficiently manage their sites, zones, materials, stock, and interventions (maintenance, cleaning, incidents).
 
 ---
 
@@ -61,23 +60,6 @@ XetaSuite is built with multi-tenancy at its core. Each tenant operates in a ful
 
 ---
 
-## Getting Started
-
-> Detailed setup and deployment documentation is available in the project's technical documentation.
-
-1. **Clone the relevant service repositories** from the XetaSuite organization.
-2. **Configure your environment** — Set up your database, environment variables, and tenant seed data.
-3. **Run the application** — Follow the service-specific README instructions for local development or production deployment.
-4. **Create your first tenant** — Use the admin panel or CLI to provision a new tenant and begin configuring sites, zones, and users.
-
----
-
 ## Contributing
 
 Contributions are welcome! Please read the contributing guidelines in the relevant repository before opening a pull request. All contributions should follow the project's coding standards and include appropriate tests.
-
----
-
-## License
-
-© XetaSuite. All rights reserved.
